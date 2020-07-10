@@ -1,6 +1,11 @@
 # Портфолио студента 3 курса ИВТ Цирулика Ивана по дисциплине компьютерная и инженерная графика
 ## Semestr 5
 ### Лабораторные работы
+* [Чертеж детали](/semestr5/Tsirulik.dwg)
+![Скриншот детали 1](https://github.com/TsirulikIvan/CGPortfolio/blob/master/semestr%205/%D1%87%D0%B5%D1%80%D1%82%D0%B5%D0%B6.jpg)
+![Скриншот детали 2](https://github.com/TsirulikIvan/CGPortfolio/blob/master/semestr%205/%D1%87%D0%B5%D1%80%D1%82%D0%B5%D0%B62.jpg)
+* [3D деталь файл](/semestr5/Tsirulik_3D_chertezh_Gayka_v_razreze.dwg)
+* [3D деталь отчет](https://docs.google.com/document/d/1MxIjIARDMd7VeMoxQ1avH9gHnOmwZnDEaxWcBqmSGeI/edit?usp=sharing)
 ### Сертификаты
 ## Semestr 6
 ### Лабораторные работы
