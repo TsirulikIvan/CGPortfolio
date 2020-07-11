@@ -7,6 +7,8 @@
 * [3D деталь файл](/semestr5/Tsirulik_3D_chertezh_Gayka_v_razreze.dwg)
 * [3D деталь отчет](https://docs.google.com/document/d/1MxIjIARDMd7VeMoxQ1avH9gHnOmwZnDEaxWcBqmSGeI/edit?usp=sharing)
 ### Сертификаты
+* ![cert1](https://github.com/TsirulikIvan/CGPortfolio/blob/master/certs/cert1jpg.jpg)
+* ![cert2](https://github.com/TsirulikIvan/CGPortfolio/blob/master/certs/cert2.jpg)
 ## Semestr 6
 ### Лабораторные работы
 * [ЛР 1](https://github.com/TsirulikIvan/CGPortfolio/tree/master/%D0%9B%D0%A0%201)
